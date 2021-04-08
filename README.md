@@ -27,3 +27,4 @@ Analysis completed {
     }
 }
 ```
+**NOTE** This has only been tested with PrusaSlicer. Please let me know if there's issues with other slicers!
