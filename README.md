@@ -1,3 +1,5 @@
+**NOTE** This has only been tested with PrusaSlicer. Please let me know if there's issues with other slicers!
+
 > How to use
 1. Execute `git clone https://github.com/destinybonavita/util-gcode-analyizer` using your favorite terminal
 2. Create `Files` directory to cloned location
@@ -27,4 +29,3 @@ Analysis completed {
     }
 }
 ```
-**NOTE** This has only been tested with PrusaSlicer. Please let me know if there's issues with other slicers!
